@@ -1,0 +1,98 @@
+
+.references
+{
+    /* background-color: #FFFF99; */
+    margin-right: 2em;
+    margin-left: 2em;
+    text-indent: -2em;
+    font-size: smaller;
+}
+
+.english
+{
+    /* background-color: #FFCC99; */
+}
+
+.vernacular
+{
+    /* background-color: #CCFF99; */
+    font-size: smaller;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.observations
+{
+    /* background-color: #99FF99; */
+    font-size: smaller;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+h1, h2, h3, h4, h5, h6, .h4
+{
+    text-align: center;
+    font-style: normal;
+}
+
+div.class h2, div.class h3, div.class h4, div.class h5, div.class h6
+{
+    font-size: 1.44em;
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+div.subclass h2, div.subclass h3, div.subclass h4, div.subclass h5, div.subclass h6
+{
+    font-size: 1.31em;
+    font-weight: bold;
+    line-height: 1.31em;
+}
+
+div.order h2, div.order h3, div.order h4, div.order h5, div.order h6
+{
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.2em;
+}
+
+div.suborder h2, div.suborder h3, div.suborder h4, div.suborder h5, div.suborder h6
+{
+    font-size: 1.1em;
+    font-weight: bold;
+    line-height: 1.1em;
+}
+
+div.family h2, div.family h3, div.family h4, div.family h5, div.family h6,
+div.subfamily h2, div.subfamily h3, div.subfamily h4, div.subfamily h5, div.subfamily h6,
+div.genus h2, div.genus h3, div.genus h4, div.genus h5, div.genus h6
+{
+    font-weight: bold;
+}
+
+div.species h2, div.species h3, div.species h4, div.species h5, div.species h6, .headspecies
+{
+    /* background-color: #FF99CC; */
+}
+
+div.species h2 b, div.species h3 b, div.species h4 b, div.species h5 b, div.species h6 b, .headspecies b
+{
+    font-family: sans-serif;
+}
+
+
+.key h3, .key h4, .key h5, .key h6
+{
+    /* background-color: #99FFCC; */
+}
+
+.key
+{
+    font-size: smaller;
+    /* background-color: #99CCFF; */
+}
+
+span.kref
+{
+    float: right;
+}
